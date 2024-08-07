@@ -1,18 +1,15 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from typing import List
 
 class Ingredient(BaseModel):
-    item: str
-    quantity: str
-
-class InstructionStep(BaseModel):
-    items: List[str]
-    instruction: str
+    item: str = Field(..., description="The name of the ingredient. No other text but the ingredient name.")
+    unit: str = Field(..., description="The measurement unit. oz, tsp, tbsp, lb, etc.")
+    quantity: float = Field(..., description="Quantity of the item as a float.")
 
 class Recipe(BaseModel):
     ingredients: List[Ingredient]
     description: str
-    instructions: List[InstructionStep]
+    instructions: List[str] = Field(..., description="List of instructions to make this recipe. No numbers are listed here.")
 
 class IdeaRecipes(BaseModel):
     recipes: List[Recipe]
