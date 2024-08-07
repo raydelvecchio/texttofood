@@ -2,3 +2,5 @@ httpx
 openai
 pydantic
 instructor
+exa-py
+python-dotenv
