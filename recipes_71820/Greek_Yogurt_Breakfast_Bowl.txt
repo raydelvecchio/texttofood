@@ -1,0 +1,16 @@
+Recipe: Greek Yogurt Breakfast Bowl
+Description: A nutritious and satisfying breakfast bowl topped with fresh fruit and a drizzle of honey.
+
+Ingredients:
+- 1 cup Greek yogurt
+- 1 count banana
+- 0.5 cup blueberries
+- 1 tbsp honey
+- 0.25 cup granola
+
+Instructions:
+1. In a bowl, add Greek yogurt as the base.
+2. Slice the banana and layer it on top of the yogurt.
+3. Add blueberries on top of the banana slices.
+4. Drizzle honey over the entire bowl.
+5. Sprinkle granola on top for added crunch and enjoyment.

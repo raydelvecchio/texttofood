@@ -1,0 +1,102 @@
+Shopping List:
+
+boneless chicken breast (oz): 24.0 oz
+paprika (tbsp): 2.0 tbsp
+onion powder (tbsp): 1.0 tbsp
+garlic powder (tbsp): 2.5 tbsp
+chili powder (tsp): 2.0 tsp
+salt (tsp): 5.5 tsp
+pepper (tsp): 0.25 tsp
+olive oil (tbsp): 19.0 tbsp
+acid (lime or lemon juice) (tbsp): 4.0 tbsp
+chicken thighs (lb): 2.0 lb
+lime juice (cup): 0.5 cup
+lime zest (tsp): 3.0 tsp
+olive oil (cup): 0.25 cup
+cilantro (tbsp): 4.0 tbsp
+jalapeno (None): 2.0 None
+garlic (clove): 13.0 clove
+honey (tbsp): 9.0 tbsp
+whole chicken (None): 1.0 None
+butter (tbsp): 4.0 tbsp
+ketchup (cup): 0.33 cup
+lemon juice (cup): 0.25 cup
+soy sauce (cup): 0.25 cup
+black pepper (tsp): 1.5 tsp
+hot sauce (tsp): 0.5 tsp
+chicken breast (g): 400.0 g
+curd (ml): 120.0 ml
+turmeric powder (tsp): 0.5 tsp
+red chili powder (tsp): 1.0 tsp
+coriander powder (tbsp): 1.0 tbsp
+onion (medium): 2.0 medium
+red bell pepper (medium): 1.0 medium
+yellow bell pepper (medium): 1.0 medium
+green bell pepper (medium): 1.0 medium
+tomato puree (ml): 240.0 ml
+tomato ketchup (ml): 120.0 ml
+ginger (inch): 4.0 inch
+green chili: 2.0
+lemon juice (tsp): 1.5 tsp
+caster sugar (tsp): 0.5 tsp
+mozzarella cheese (g): 60.0 g
+refined flour (g): 120.0 g
+wheat flour (g): 60.0 g
+black peppercorns (tsp): 1.0 tsp
+fresh coriander: 1.0
+Greek yogurt (cup): 5.0 cup
+banana (count): 1.0 count
+blueberries (cup): 0.5 cup
+granola (cup): 0.25 cup
+chicken breast (lb): 4.5 lb
+onion (count): 1.0 count
+curry powder (tbsp): 2.0 tbsp
+coconut milk (cup): 1.0 cup
+salt: 1.0
+black pepper: 0.5
+ground beef (lb): 1.0 lb
+cumin (tbsp): 1.0 tbsp
+garlic powder (tsp): 1.0 tsp
+cucumber (count): 1.0 count
+fresh dill (tbsp): 2.0 tbsp
+lemon juice (tbsp): 5.0 tbsp
+mixed frozen berries (cup): 1.0 cup
+vanilla extract (tsp): 0.5 tsp
+green peppers (None): 1.0 None
+fennel seeds (tsp): 1.0 tsp
+mayonnaise (cup): 2.25 cup
+mixed greens (oz): 4.0 oz
+chicken tenders (lb): 1.5 lb
+chicken stock (cup): 4.0 cup
+dry ranch dressing mix (tbsp): 2.0 tbsp
+celery (cup): 0.5 cup
+red seedless grapes (cup): 0.75 cup
+Fuji apple (cup): 0.5 cup
+chopped pecans (cup): 0.5 cup
+grapefruit (None): 1.0 None
+mixed salad greens (g): 400.0 g
+chili pepper (None): 1.0 None
+soy sauce (tbsp): 5.5 tbsp
+mustard sauce (tbsp): 4.0 tbsp
+lemon (None): 1.0 None
+cayenne pepper (dashes): 3.0 dashes
+Parmesan cheese (cup): 0.5 cup
+chicken drumsticks (lb): 1.5 lb
+garlic (cloves): 9.0 cloves
+oyster sauce (tbsp): 0.5 tbsp
+sesame oil (tsp): 1.0 tsp
+white pepper (dashes): 3.0 dashes
+Chinese five-spice powder (pinch): 1.0 pinch
+salt (pinch): 1.0 pinch
+chicken breast (lbs): 3.0 lbs
+Cajun seasoning (tbsp): 3.0 tbsp
+cheddar cheese (cup): 0.75 cup
+parsley (cup): 0.25 cup
+bread crumbs (cup): 0.5 cup
+cornish hen (whole): 1.0 whole
+sambal oelek (tbsp): 0.5 tbsp
+skinless boneless chicken breasts (pieces): 6.0 pieces
+cream of mushroom soup (cans): 2.0 cans
+milk (cup): 0.5 cup
+deli ham slices (pieces): 6.0 pieces
+Monterey Jack cheese (slices): 6.0 slices

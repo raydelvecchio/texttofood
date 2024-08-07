@@ -1,0 +1,22 @@
+Recipe: Greek Yogurt Chicken Curry
+Description: A creamy and flavorful chicken curry dish that uses Greek yogurt for a healthier twist.
+
+Ingredients:
+- 1 lb chicken breast
+- 1 count onion
+- 3 clove garlic
+- 1 inch ginger
+- 2 tbsp curry powder
+- 1 cup Greek yogurt
+- 1 cup coconut milk
+- 2 tbsp olive oil
+- 0.5 salt
+- 0.25 black pepper
+
+Instructions:
+1. Heat olive oil in a large pan over medium heat.
+2. Add diced onion, minced garlic, and ginger; sauté until softened.
+3. Add chicken, curry powder, salt, and pepper; cook until chicken is browned.
+4. Pour in coconut milk and let simmer for 10-15 minutes until chicken is cooked through.
+5. Remove from heat and stir in Greek yogurt until well mixed.
+6. Serve hot with rice or naan.
